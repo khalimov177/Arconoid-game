@@ -1,5 +1,7 @@
 # Arkanoid Game
 
+![image](screenshot.png)
+
 ## Preparation
 
 1. Do a Preflight check:
