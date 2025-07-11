@@ -15,8 +15,6 @@ pygame.display.set_caption("PyGame Arkanoid")
 
 muted = True
 
-# pygame.mixer.music.load("background.mp3")
-# pygame.mixer.music.play(-1)
 
 def draw_title_screen():
     font = pygame.font.Font(None, 74)
